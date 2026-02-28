@@ -1,54 +1,52 @@
-### Privacy Policy
+# Privacy Policy
 
-**Last updated:** Feb 27, 2026
-
----
-
-### 1. Who I Am
-
-This privacy policy applies to **[Your Full Name]**, a private individual acting in a purely personal capacity (not as a business or organization).
-
-For any questions about this policy, you can contact me at: **[your email address]**.
+**Last updated:** February 27, 2026
 
 ---
 
-### 2. Summary
+## 1. About Robo Skyline
 
-- **No personal data collected**: I do not intentionally collect, store, or process any personal data about you.
-- **No tracking**: I do not use cookies, analytics, tracking pixels, or social media plugins.
-- **No sharing or selling**: I do not sell, rent, or share any personal data with anyone, because I do not collect it in the first place.
+This privacy policy describes the data practices of **Robo Skyline** ("the Organization," "we," "our," or "us"). It applies to all content published and services operated by the Organization.
 
 ---
 
-### 3. Data I Do Not Collect
+## 2. Summary
 
-When you access my content (for example, by visiting a website I control):
+- **No personal data collected**: The Organization does not intentionally collect, store, or process any personal data about its visitors or users.
+- **No tracking**: The Organization does not use cookies, analytics, tracking pixels, or social media plugins.
+- **No sharing or selling**: The Organization does not sell, rent, or share any personal data with third parties, as no such data is collected in the first place.
 
-- **No personal data is collected by me.**
-- I do **not**:
+---
+
+## 3. Data the Organization Does Not Collect
+
+When visitors access content published by the Organization (for example, by visiting a website operated by the Organization):
+
+- **No personal data is collected by the Organization.**
+- The Organization does **not**:
   - Create user accounts or profiles
   - Collect names, email addresses, phone numbers, or postal addresses
-  - Track your browsing behavior across sites
+  - Track browsing behavior across sites
   - Build marketing or advertising profiles
 
 ---
 
-### 4. Cookies and Tracking Technologies
+## 4. Cookies and Tracking Technologies
 
-- **I do not set or use cookies.**
-- **I do not use analytics tools** (such as Google Analytics, Matomo, etc.).
-- **I do not use advertising or marketing trackers.**
+- **The Organization does not set or use cookies.**
+- **The Organization does not use analytics tools** (such as Google Analytics, Matomo, or similar services).
+- **The Organization does not use advertising or marketing trackers.**
 
-If your browser shows cookies while accessing my content, they are not created or controlled by me, but may be related to your browser, device, or network.
+If a visitor's browser displays cookies while accessing the Organization's content, such cookies are not created or controlled by the Organization and may instead be associated with the visitor's browser, device, or network configuration.
 
 ---
 
-### 5. Third-Party Infrastructure (e.g. Hosting, ISPs)
+## 5. Third-Party Infrastructure (e.g., Hosting, ISPs)
 
-Even though **I do not process your data**, some **technical data may be processed by third parties** that provide the infrastructure needed to deliver my content, such as:
+Although **the Organization does not process visitor data**, certain **technical data may be processed by third parties** that provide the infrastructure necessary to deliver the Organization's content, including but not limited to:
 
-- Your **internet service provider (ISP)**
-- My **web hosting provider** or any content delivery network (CDN)
+- The visitor's **internet service provider (ISP)**
+- The Organization's **web hosting provider** or any content delivery network (CDN)
 
 These third parties may, for example, temporarily log technical information such as:
 
@@ -58,46 +56,45 @@ These third parties may, for example, temporarily log technical information such
 - Browser type and version
 - Operating system
 
-This processing is done **for their own purposes** (such as ensuring security, preventing abuse, and maintaining their services) and is **not controlled by me**. Please refer to their own privacy policies for details.
+Such processing is conducted **by those third parties for their own purposes** (such as ensuring security, preventing abuse, and maintaining their services) and is **outside the control of the Organization**. Visitors are encouraged to consult the respective privacy policies of those third-party providers for further details.
 
 ---
 
-### 6. Communications You Initiate
+## 6. Communications Initiated by Visitors
 
-If you choose to contact me directly (for example, by sending me an email or message):
+If a visitor chooses to contact the Organization directly (for example, by sending an email or message):
 
-- I will receive the information you choose to provide (such as your name, email address, and the content of your message).
-- I will **only use this information to read, respond to, and manage your communication.**
-- I do not add it to any database, share it, or use it for marketing.
-- I will keep such communications only as long as reasonably needed (for example, to handle your request or keep necessary records) and then delete them.
-
----
-
-### 7. Your Rights
-
-Because I **do not systematically collect or store personal data about visitors**, in most cases there is no personal data of yours for me to access, correct, or delete.
-
-If you believe I hold personal data about you (for example, in emails you have sent):
-
-- You may contact me at **[your email address]** and request:
-  - **Access** to the personal data I hold about you
-  - **Correction** of inaccurate personal data
-  - **Deletion** of your personal data (where applicable)
-
-I will respond as soon as reasonably possible.
+- The Organization will receive the information the visitor chooses to provide (such as name, email address, and the content of the message).
+- The Organization will **use this information solely to read, respond to, and manage the communication.**
+- The Organization does not add such information to any database, share it with third parties, or use it for marketing purposes.
+- The Organization will retain such communications only as long as reasonably necessary (for example, to fulfill the visitor's request or maintain necessary records) and will delete them thereafter.
 
 ---
 
-### 8. Changes to This Policy
+## 7. Visitor Rights
 
-If I ever change how I handle data (for example, if I start using analytics or collecting information), **I will update this privacy policy before doing so**.
+Because the Organization **does not systematically collect or store personal data about visitors**, in most cases there is no personal data available to access, correct, or delete.
 
-The most recent version of this policy will always be available at **[location/URL where this policy is published]**.
+If a visitor believes the Organization holds personal data about them (for example, through prior email correspondence), the visitor may contact the Organization at **[contact email address]** to request:
+
+- **Access** to any personal data the Organization may hold
+- **Correction** of any inaccurate personal data
+- **Deletion** of personal data (where applicable)
+
+The Organization will respond to such requests as promptly as reasonably possible.
 
 ---
 
-### 9. Legal Disclaimer
+## 8. Changes to This Policy
 
-This privacy policy is intended to be **simple and transparent** and to reflect the fact that **I am a private individual who does not process others’ data, except minimally when you contact me directly.**
+If the Organization's data practices change in the future (for example, if the Organization begins using analytics or collecting information), **this privacy policy will be updated prior to implementing any such changes**.
 
-It is **not legal advice**. Privacy and data protection laws can vary by country and situation. If you need a privacy policy for a business, organization, or a more complex project, you should consult a qualified legal professional.
+The most recent version of this policy will always be available at **[policy URL]**.
+
+---
+
+## 9. Legal Disclaimer
+
+This privacy policy is intended to be **clear and transparent** and to reflect the fact that **the Organization does not process personal data, except minimally when a visitor initiates direct communication.**
+
+This policy does **not constitute legal advice**. Privacy and data protection laws vary by jurisdiction and circumstance. Entities with more complex data processing activities should seek guidance from a qualified legal professional.
